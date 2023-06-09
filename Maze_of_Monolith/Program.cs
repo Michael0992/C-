@@ -15,6 +15,8 @@ namespace Maze_of_Monolith
             new ScreenSett();
             new Titlescreen(); 
             new GetHelp(); 
+
+            //Kommentar
             
 
 

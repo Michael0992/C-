@@ -25,3 +25,17 @@ C:\Users\miche\source\repos\Übung\Maze_of_Monolith\bin\Debug\Microsoft.Win32.Re
 C:\Users\miche\source\repos\Übung\Maze_of_Monolith\bin\Debug\NAudio.xml
 C:\Users\miche\source\repos\Übung\Maze_of_Monolith\bin\Debug\System.Security.AccessControl.xml
 C:\Users\miche\source\repos\Übung\Maze_of_Monolith\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\Maze_of_Monolith.exe.config
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\Maze_of_Monolith.exe
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\Maze_of_Monolith.pdb
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\JetBrains.Annotations.xml
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\NAudio.xml
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\System.Security.AccessControl.xml
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\bin\Debug\TrueColorConsole.xml
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\obj\Debug\Maze_of_Monolith.csproj.AssemblyReference.cache
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\obj\Debug\Maze_of_Monolith.csproj.CoreCompileInputs.cache
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\obj\Debug\Maze_of_Monolith.csproj.CopyComplete
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\obj\Debug\Maze_of_Monolith.exe
+C:\Users\miche\Source\Repos\Csharp\Maze_of_Monolith\obj\Debug\Maze_of_Monolith.pdb
